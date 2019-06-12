@@ -16,3 +16,8 @@ All data sets I used during the analysis process:
 8. "/UCI HAR Dataset/activity_labels.txt": Links the class labels with their activity name.
 Since the required tidy data asks for column with "mean()" or "std()" contained in name, we can ignore all data sets in "intetial Signal" folder in both train and test folder.
 
+### part two: analysis
+For the full analysis process, please check the run_analysis.R script, I've wrote comments for each steps to create the required tidy data set.
+
+One thing should be noticed is
+
