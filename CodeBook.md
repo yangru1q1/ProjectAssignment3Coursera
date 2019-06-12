@@ -3,6 +3,8 @@
 ## Analysis Process
 
 In the run_analysis.R script, I proform the the data cleaning in two parts. This first part is loading data sets; the second part is cleaning data using the 5 steps in course project, and get the result tidy data. 
+
+### part one: data loading
 All data sets I used during the analysis process:
 1. "/UCI HAR Dataset/train/X_train.txt": training set for features
 2. "/UCI HAR Dataset/train/y_train.txt": training labels for activities
