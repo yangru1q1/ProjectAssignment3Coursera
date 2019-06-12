@@ -8,4 +8,6 @@ The CodeBook.md contain inforamtion about the analysis, as well as the variables
 
 - Please put the run_analysis.R script and "UCI HAR Dataset" folder under the same folder and set the folder as current working directory in order to run the run_analysis.R.
 
-- After running the run_analysis.R scription, you should have a "result.txt" under the current working directory. Using read.table() function with 'header = TRUE' to load the required tidy data set.
+- After running the run_analysis.R scription, you should have a "result.txt" under the current working directory. Using read.table() function with 'header = TRUE' to load the required tidy data set in R.
+
+- Use R version 3.4.3
