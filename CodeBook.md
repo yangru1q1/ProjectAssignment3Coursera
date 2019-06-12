@@ -23,7 +23,7 @@ One thing should be noticed is, for step 4 "Appropriately labels the data set wi
 
 ## Variables:
 
-"activites": 6 different activities peformed by each volunteers.  
+"activities": 6 different activities peformed by each volunteers.  
 "subjects": 30 different volunteers.
 All the following variable name indicate the value is the mean of corresponding feature for each subject and activity.
 "fBodyAcc.MeanX" 
