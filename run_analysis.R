@@ -85,7 +85,7 @@ result <- selectedData %>%
       summarize(mean=mean(count)) %>%
         spread(variable, mean)
 
-names(result)[1] <- "activites"
+names(result)[1] <- "activities"
 
 ## write the result data set
 write.table(result, "./result.txt", row.names = FALSE)
