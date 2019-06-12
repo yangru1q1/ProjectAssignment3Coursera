@@ -93,3 +93,7 @@ All the following variable name indicate the value is the mean of corresponding 
 "tGravityAccMag.Mean"    
 "tGravityAccMag.Std"  
 
+Notes: 
+======
+- Features from original data sets are normalized and bounded within [-1,1], which each variable in the required tidy data set is also bounded within [-1,1].
+- The unit of all data in the required data set is Hz.
